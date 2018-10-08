@@ -1,0 +1,29 @@
+
+#main {
+    padding: 10px;
+}
+
+.legend rect {
+    stroke: #555;
+}
+
+text {
+    font-family: "sans";
+    font-size: 12px;
+    fill: #000;
+}
+.label {
+    text-anchor: middle;
+    font-size: 18px;
+    font-weight: semibold;
+}
+
+.grid path,
+.grid line {
+    stroke: #fff;
+}
+
+.background {
+    fill: #eef;
+}
+
